@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Jarvis-AI-Android"
-include(":app")
+include(":App")
